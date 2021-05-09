@@ -1,0 +1,10 @@
+FLOWTRACK
+
+Liam Hopkins 09/05/2021
+
+Mobile App Development 1
+
+This ais a basic app base off of Placemark.
+
+It allows a user to store basic information about rivers and sections of the river with will CRUD functionality.
+It implemets multiple activities and including Google maps implementaion
