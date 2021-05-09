@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807288713463",
+    "project_id": "flowtrack-cd7ca",
+    "storage_bucket": "flowtrack-cd7ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807288713463:android:29b074b6a2ddd60895a3f2",
+        "android_client_info": {
+          "package_name": "org.wit.flowtrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807288713463-8oa2cvksj3tabav9m8uk2kl0dktvrjl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTrwmq1U87nDEnHYjb6NMMbp_vdAjI3FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807288713463-8oa2cvksj3tabav9m8uk2kl0dktvrjl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
